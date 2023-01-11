@@ -1,0 +1,44 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Amantran Restaurant",
+      "owner": "Aditya",
+      "mobile": "+91234567881",
+      "email": "amantran@gmail.com",
+      "location": "panvel"
+    },
+    {
+      "id": 2,
+      "name": "Saheb Restaurant",
+      "owner": "Yugesh",
+      "mobile": "+91212567881",
+      "email": "saheb@gmail.com",
+      "location": "Dadar"
+    },
+    {
+      "id": 4,
+      "name": "Naaz",
+      "owner": "sk",
+      "mobile": "65748465458",
+      "email": "naaz@gmail.com",
+      "location": "Kurla"
+    },
+    {
+      "id": 5,
+      "name": "Sai Krupa Dhaba",
+      "owner": "Yugesh Mishra",
+      "mobile": "7894561230",
+      "email": "skd@gamail.com",
+      "location": "Panvel"
+    },
+    {
+      "id": 6,
+      "name": "yugi",
+      "owner": "fytyf",
+      "mobile": "gvhg",
+      "email": "gfvhgf",
+      "location": "hgfytf"
+    }
+  ]
+}
